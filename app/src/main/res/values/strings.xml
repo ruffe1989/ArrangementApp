@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Eldøy Kulturpark</string>
+    <string name="title_placeholder">Funker dette?</string>
+    <string name="description_placeholder">Description</string>
+    <string name="arr_info_placeholder">desc</string>
+
+    <string-array name="arr_tittel">
+        <item>Toto</item>
+        <item>Oz Noy</item>
+        <item>Mathias Eick Kvartett</item>
+        <item>Tetsuo Sakurai</item>
+        <item>Snarky Puppy</item>
+        <item>Pat Metheny</item>
+        <item>Alex Argento</item>
+        <item>Cosmosquad</item>
+        <item>Jaga Jazzist</item>
+    </string-array>
+
+    <string-array name="arr_info">
+        <item>Toto er musikk alle liker.</item>
+        <item>Israelsk fusion - fordi.</item>
+        <item>Norsk trompetjazz.</item>
+        <item>Japansk flinkisfusion.</item>
+        <item>Amerikansk Berkleyjazz.</item>
+        <item>Pat Metheny Group spiller hele White Album</item>
+        <item>Italiensk keyboardvirtuoso.</item>
+        <item>Funky fusionband fra Ohio.</item>
+        <item>Norsk Jazz/electro/rock band.</item>
+    </string-array>
+
+    <array name="arr_images">
+        <item>@drawable/picture1</item>
+        <item>@drawable/picture2</item>
+        <item>@drawable/picture3</item>
+        <item>@drawable/picture4</item>
+        <item>@drawable/picture5</item>
+        <item>@drawable/picture6</item>
+        <item>@drawable/picture7</item>
+        <item>@drawable/picture8</item>
+        <item>@drawable/picture9</item>
+    </array>
+    <string-array name="userInfo">
+        <item>test@test.com:hello</item>
+        <item>test2@test.com:world</item>
+    </string-array>
+    <string-array name="menuInfo">
+        <item>Logg inn</item>
+        <item>Min profil</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_name">Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_repeat_password">Repeat password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="error_invalid_name">Too short, at least 3 characters</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Too short, at least 4 characters</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_password_nomatch">Password does not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_signup_failed">Failed to sign up</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_ny_bruker">NyBrukerActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_sign_up">Sign up</string>
+
+    <string name="endpoint">http://kingbingfuji.synology.me/api.php</string>
+    <string name="title">Eldøy Kulturpark</string>
+    <string name="desc">Velkommen til oss. Eldøy Kulturpark er et kultursted som arrangerer
+    diverse konsert og kultur opplevelser</string>
+    <string name="title_activity_seat_selection">SeatSelectionActivity</string>
+
+
+</resources>
